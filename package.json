@@ -1,0 +1,21 @@
+{
+  "name": "betatestasb-1-7-0",
+  "displayName": "ASB Studio V2 (Beta)",
+  "version": "1.7",
+  "description": "Built with APK Builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"test\""
+  },
+  "keywords": [
+    "cordova",
+    "android"
+  ],
+  "author": "APK Builder",
+  "license": "MIT",
+  "devDependencies": {},
+  "cordova": {
+    "platforms": [],
+    "plugins": {}
+  }
+}
